@@ -48,6 +48,7 @@ return function(icon)
 	layout.Name = "Layout"
 	layout.Padding = UDim.new(0, 8)
 	layout.SortOrder = Enum.SortOrder.LayoutOrder
+	layout.HorizontalAlignment = Enum.HorizontalAlignment.Center
 	layout.Parent = box
 
 	local UICorner = Instance.new("UICorner")
