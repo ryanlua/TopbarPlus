@@ -36,7 +36,6 @@ return function(icon)
 	header.TextSize = TEXT_SIZE
 	header.TextTruncate = Enum.TextTruncate.None
 	header.TextWrapped = false
-	header.TextXAlignment = Enum.TextXAlignment.Left
 	header.AutomaticSize = Enum.AutomaticSize.X
 	header.BackgroundTransparency = 1
 	header.LayoutOrder = 1
